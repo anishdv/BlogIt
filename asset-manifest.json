@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/static/css/main.7aa0a794.chunk.css",
-    "main.js": "/static/js/main.a68b0ff7.chunk.js",
-    "main.js.map": "/static/js/main.a68b0ff7.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.0ed6e50a.js",
-    "runtime-main.js.map": "/static/js/runtime-main.0ed6e50a.js.map",
-    "static/css/2.829c9cb5.chunk.css": "/static/css/2.829c9cb5.chunk.css",
-    "static/js/2.d04754c2.chunk.js": "/static/js/2.d04754c2.chunk.js",
-    "static/js/2.d04754c2.chunk.js.map": "/static/js/2.d04754c2.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.137e083b23fd866606606d395c51aaca.js": "/precache-manifest.137e083b23fd866606606d395c51aaca.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/2.829c9cb5.chunk.css.map": "/static/css/2.829c9cb5.chunk.css.map",
-    "static/css/main.7aa0a794.chunk.css.map": "/static/css/main.7aa0a794.chunk.css.map",
-    "static/js/2.d04754c2.chunk.js.LICENSE.txt": "/static/js/2.d04754c2.chunk.js.LICENSE.txt"
+    "main.css": "/BlogIt/static/css/main.7aa0a794.chunk.css",
+    "main.js": "/BlogIt/static/js/main.84e3f891.chunk.js",
+    "main.js.map": "/BlogIt/static/js/main.84e3f891.chunk.js.map",
+    "runtime-main.js": "/BlogIt/static/js/runtime-main.12db9f0a.js",
+    "runtime-main.js.map": "/BlogIt/static/js/runtime-main.12db9f0a.js.map",
+    "static/css/2.829c9cb5.chunk.css": "/BlogIt/static/css/2.829c9cb5.chunk.css",
+    "static/js/2.d04754c2.chunk.js": "/BlogIt/static/js/2.d04754c2.chunk.js",
+    "static/js/2.d04754c2.chunk.js.map": "/BlogIt/static/js/2.d04754c2.chunk.js.map",
+    "index.html": "/BlogIt/index.html",
+    "precache-manifest.5cda0470329c5b7bf0a5fb2c4d0efd0e.js": "/BlogIt/precache-manifest.5cda0470329c5b7bf0a5fb2c4d0efd0e.js",
+    "service-worker.js": "/BlogIt/service-worker.js",
+    "static/css/2.829c9cb5.chunk.css.map": "/BlogIt/static/css/2.829c9cb5.chunk.css.map",
+    "static/css/main.7aa0a794.chunk.css.map": "/BlogIt/static/css/main.7aa0a794.chunk.css.map",
+    "static/js/2.d04754c2.chunk.js.LICENSE.txt": "/BlogIt/static/js/2.d04754c2.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.0ed6e50a.js",
+    "static/js/runtime-main.12db9f0a.js",
     "static/css/2.829c9cb5.chunk.css",
     "static/js/2.d04754c2.chunk.js",
     "static/css/main.7aa0a794.chunk.css",
-    "static/js/main.a68b0ff7.chunk.js"
+    "static/js/main.84e3f891.chunk.js"
   ]
 }
